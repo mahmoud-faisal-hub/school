@@ -1,0 +1,5 @@
+========================
+== Functions Document ==
+========================
+
+getSelect($fields, $table, $where = 1, $orderfield = 1, $ordering = "ASC")
